@@ -1,0 +1,22 @@
+{
+  "name": "ctse-docker-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedAmeer1/ctse-docker-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedAmeer1/ctse-docker-test/issues"
+  },
+  "homepage": "https://github.com/AhmedAmeer1/ctse-docker-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
